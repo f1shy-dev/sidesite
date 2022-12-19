@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       screens: {
-        btnok: '355px',
+        buttonsok: '355px',
+        stoplgtranslation: '1330px',
         // tran,
       },
       colors: {
